@@ -9,5 +9,4 @@ const someText =
 function App() {
     return <Message title={someTitle} text={someText} />;
 }
-
 export default App;
